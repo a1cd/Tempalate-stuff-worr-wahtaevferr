@@ -1,5 +1,7 @@
 # AutoFRC
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
+
 This is a study into creating a fully automatic FRC robot. 
 
 This process relies on several key algorithms:
